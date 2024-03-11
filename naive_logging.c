@@ -31,7 +31,7 @@
 
 
 //  Constants definitions
-char* DEFAULT_LOG_FILE      = "./log/psdb_interface.log";
+char* DEFAULT_LOG_FILE      = "./logs/log.log";
 #define LOG_LEVEL_DEBUG     1
 #define LOG_LEVEL_INFO      2
 #define LOG_LEVEL_WARNING   3
